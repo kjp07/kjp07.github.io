@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- internal CSS -->
+<style>
+body {background-color: white; }
+h1   {color: lightseagreen; font-family:verdana; font-size:150%}
+h2   {color: lightseagreen; font-family:verdana; font-size:125%}
+hr   {color: lightseagreen}
+</style>
+</head>
+
+<body>
+
+<h1>Let's Go On a Cheese Crawl!</h1>
+
+<p>In preparation for the Edinburgh Cheese Crawl with my family, I've put together my thoughts, some facts, and a playlist of all things cheese. Enjoy.</p>
+
+<iframe src="https://giphy.com/embed/l1L2UkgpuiE4U" width="480" height="287" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eating-cartoon-mouse-l1L2UkgpuiE4U">via GIPHY</a></p>
+
+<hr style="color:purple;">
+
+<section>
+<h2>My Thoughts On Cheese...</h2>
+
+	<p>Anyone who knows me, knows I <em>love</em> cheese. Nothing gives me greater satsifaction than dunking a piece of cheddar into
+	<br> a tomato soup. I've been many times how odd this is. I say "You don't know what you're missing".
+	<br>Grated parmesan on garlic fries gives me joy. Stringy mozarella on pizza makes me smile. You get the idea.</p> 
+</section>
+
+<section>
+<h2>Interesting... Tell me more...</h2>
+	<p>Here are some fun facts about cheese:</p>
+	<ul>
+		<li>There are more than 700 cheeses made in the UK.</li>
+		<li>Blue cheese gets it's coloring from an edible mould, such as <i>Penicillium roqueforti</i> and <i>Penicillium glaucum</i>.</li>
+		<li>If you love cheese, you can call yourself a turophile!</li>
+		<li>And if you collect cheese labels, you can also add tyrosemiphile to your title!</li>
+	</ul>
+</section>
+
+<section>
+<h2>Say cheese!</h2>
+<form>
+	<fieldset>
+		<!-- this is for radioboxes -->
+		<legend>Do you like cheese?</legend>
+		<label><input id="yes" type="radio" name="yes-no" value="yes"> Yes</label>
+		<label><input id="no" type="radio" name="yes-no" value="no"> No</label>
+	</fieldset>
+	<fieldset>
+		<!-- this is for checkboxes -->
+		<legend>Which cheese do you like?</legend>
+		<input id="brie" type="checkbox"> Brie
+		<input id="cheddar" type="checkbox"> Cheddar
+		<input id="camembert" type="checkbox"> Camembert
+		<input id="edam" type="checkbox"> Edam
+		<input id="nocheese" type="checkbox"> I said no in the first question - no!
+	</fieldset>
+	<fieldset>
+		<!-- this is for text input -->
+		<legend>What are your thoughts on blue cheese?</legend>
+		<input type="text" />
+	</fieldset>
+</form>
+</section>
+
+<p>For more cheesy facts and stories, subscribe <a href="mailto:klc900@hotmail.com">here</a></p>
+
+</body>
+</html>
