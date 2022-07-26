@@ -37,7 +37,7 @@ hr   {color: lightseagreen}
 		<li>Blue cheese gets it's coloring from an edible mould, such as <i>Penicillium roqueforti</i> and <i>Penicillium glaucum</i></li>
 		<li>If you love cheese, you can call yourself a turophile!</li>
 		<li>And if you collect cheese labels, you can also add tyrosemiphile to your title!</li>
-	<ul>
+	</ul>
 </section>
 
 <section>
