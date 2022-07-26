@@ -25,7 +25,7 @@ hr   {color: lightseagreen}
 <h2>My Thoughts On Cheese...</h2>
 
 	<p>Anyone who knows me, knows I <em>love</em> cheese. Nothing gives me greater satsifaction than dunking a piece of cheddar into
-	<br> a tomato soup. I've been many times how odd this is. I say "You don't know what you're missing".
+	<br> a tomato soup. I've been told many times how odd this is. I say "You don't know what you're missing" and continue dunking.
 	<br>Grated parmesan on garlic fries gives me joy. Stringy mozarella on pizza makes me smile. You get the idea.</p> 
 </section>
 
