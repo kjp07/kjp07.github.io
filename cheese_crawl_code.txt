@@ -38,7 +38,7 @@ hr   {color: lightseagreen}
 		<li>If you love cheese, you can call yourself a turophile!</li>
 		<li>And if you collect cheese labels, you can also add tyrosemiphile to your title!</li>
 	<ul>
-<section>
+</section>
 
 <section>
 <h2>Say cheese!</h2>
